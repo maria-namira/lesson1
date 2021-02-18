@@ -9,6 +9,4 @@
 * Высокая скорость поиска
 * Низкая цена
 
-
-platform :ios, '8.0'
-pod "neuro-ios-sdk"
+<script src="https://localhost/neuro.sdk.min.js"></script>
